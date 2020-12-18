@@ -2,7 +2,7 @@
 numTerms = int(input("How many terms of Fibonacci sequence to print? "))
 
 # What are the first few terms of the fib seq?
-# 0 1 1 2 3 
+# 0 1 1 2 3
 
 # main method
 def fibonacci(n):

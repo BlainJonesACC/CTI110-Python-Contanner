@@ -9,7 +9,7 @@ There will be no user input. The program will just output the statement. This wi
 Correct script 45
 Phrase output is correct 45
 On Time 10
-  
+
 Description
 Earned
 Possible
