@@ -1,24 +1,24 @@
 # CS 101: Intro to Python
 
-Pre-requisites: Please make sure you are running Python 3.8.x for this class. 
+Pre-requisites: Please make sure you are running Python 3.8.x for this class.
 
-# Course Objectives
+## Course Objectives
+
 - To understand the basic concepts of computer programming in a high-level language.
 - To understand and become familiar with a number of simple data structures.
 - To be able to test and debug programs.
 
+## Dev Containers in Education
 
-# Dev Containers in Education
-
-A sample project demonstrating the use of development containers in education. This project includes a preconfigured Python dev container and two sample Python programming assignments. 
+A sample project demonstrating the use of development containers in education. This project includes a pre-configured Python dev container and two sample Python programming assignments.
 
 For more information about developing in remote containers in Visual Studio Code, check out the [remote documentation](https://code.visualstudio.com/docs/remote/containers).
 
-## Contributing
+### Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+the rights to use your contribution. For details, visit <https://cla.opensource.microsoft.com>.
 
 When you submit a pull request, a CLA bot will automatically determine whether you need to provide
 a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
